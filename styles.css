@@ -1,0 +1,25 @@
+body {
+  padding: 1em;
+  font-family: Arial;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+main article {
+  margin: 2em 0;
+  padding: 0 1em;
+  border: 1px solid #555;
+}
+
+.copy {
+  color: #0c0;
+  font-style: italic;
+}
+
+.citation {
+  font-size: 0.75em;
+}
+
+.max-100 {
+  max-width: 100%;
+}
