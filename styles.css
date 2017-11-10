@@ -11,6 +11,11 @@ main article {
   border: 1px solid #555;
 }
 
+#attn-block {
+  border-color: red;
+  border-width: 2px;
+}
+
 .copy {
   color: #0c0;
   font-style: italic;
